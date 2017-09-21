@@ -168,6 +168,7 @@ pkginclude_HEADERS = \
 	src/libbluray/keys.h \
 	src/libbluray/player_settings.h \
 	src/libbluray/bdnav/clpi_data.h \
+	src/libbluray/bdnav/clpi_parse.h \
 	src/libbluray/bdnav/meta_data.h \
 	src/libbluray/decoders/overlay.h \
 	src/util/log_control.h
